@@ -1,4 +1,4 @@
-package com.demo_simple_employee_management.simple_employee_management;
+package com.demo_simple_employee_management;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
